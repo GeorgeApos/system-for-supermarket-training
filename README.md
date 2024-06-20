@@ -1,6 +1,6 @@
 ![image](https://github.com/GeorgeApos/system-for-supermarket-training/assets/66482153/31e1d976-ce94-42af-a101-de49bdc08594)
 
-# SyMaTr: System for Market Training
+# SyMaTra: System for Market Training
 
 <br />
 <div align="center">
