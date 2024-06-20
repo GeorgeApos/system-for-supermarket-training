@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!64 &461561209157004847
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6134851149952696317}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1811991812397042819, guid: b60b3a1a28a813244b0e74fde8ba9157, type: 3}
+--- !u!1001 &1118009207932291348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3677344405579649886, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6530406301648303849, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_Name
+      value: Vase_x3wysg_02_Var01 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8647204081116291099, guid: aa6011c4fdc1a60488e560d3104301e7,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 078021c856071d141af42cd47579b8ca, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aa6011c4fdc1a60488e560d3104301e7, type: 3}
+--- !u!1 &6134851149952696317 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6530406301648303849, guid: aa6011c4fdc1a60488e560d3104301e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 1118009207932291348}
+  m_PrefabAsset: {fileID: 0}

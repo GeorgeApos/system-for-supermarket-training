@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6491581550843923890
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1147326954832833146, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1147326954832833146, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4563047810625401852, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_Name
+      value: BeerPack_74mugc_Var01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7038333807644309824, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06cafe8a928b84144ad44baa06b2d8df, type: 2}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.004
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207251296585843247, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8587829925992608820, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06cafe8a928b84144ad44baa06b2d8df, type: 2}
+    - target: {fileID: 8839953909422053525, guid: 00f4cc6b9cb376c4082532221963c346,
+        type: 3}
+      propertyPath: m_Name
+      value: BeerPack_74mugc_Var01
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00f4cc6b9cb376c4082532221963c346, type: 3}

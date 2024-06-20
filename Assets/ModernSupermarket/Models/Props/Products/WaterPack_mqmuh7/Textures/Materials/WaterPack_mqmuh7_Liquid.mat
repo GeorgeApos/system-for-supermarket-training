@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterPack_mqmuh7_Liquid
+  m_Shader: {fileID: 4800000, guid: 0379e4cd21e1eeb4b87c75a9d04fe5a7, type: 3}
+  m_ShaderKeywords: _ALPHAMODULATE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amount: 0.599
+    - _BaseAngle: 84.32
+    - _Bias: 0
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ChromaticAberration: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistortionBlend: 1
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 4.9
+    - _DistortionStrengthScaled: 0.49
+    - _DstBlend: 10
+    - _EdgeColorPower: 1.3
+    - _EdgeColorScale: 0
+    - _EmissionEnabled: 0
+    - _FlipbookMode: 0
+    - _FresnelBias: 0
+    - _FresnelPower: 1
+    - _FresnelScale: 1.25
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _LightingEnabled: 1
+    - _Metallic: 0
+    - _MetallicPower: 0
+    - _Mode: 6
+    - _NoiseIntensity: 5.69
+    - _NoiseScale: -4.4
+    - _NoiseSpeed: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 1
+    - _Parallax: 0.02
+    - _Power: 0.5
+    - _Refraction: 0
+    - _RefractionIndex: -1
+    - _Scale: 0.05
+    - _SmoothnessPower: 0
+    - _SmoothnessTextureChannel: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 2
+    - _SurfaceLength: -0.006
+    - _SurfaceLength1: 0
+    - _UVSec: 0
+    - _WaveFreq: 0
+    - _WaveHeight: 0
+    - _WaveSpeed: 0
+    - _WobbleX: 0
+    - _WobbleZ: 0
+    - _ZWrite: 0
+    - __dirty: 0
+    m_Colors:
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 0.2883588, g: 0.39522183, b: 0.45283014, a: 1}
+    - _Color1: {r: 0.8603216, g: 0.88819987, b: 0.8980392, a: 0.15686275}
+    - _DeepColor: {r: 1, g: 0.6796295, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _SurfaceColor: {r: 0.8443396, g: 0.9351399, b: 1, a: 0}
+    - _TopColor: {r: 1, g: 0.5921569, b: 0, a: 1}
+    - _WaterColor: {r: 1, g: 0.69411767, b: 0, a: 1}
+    - _WaterEdgeColor: {r: 1, g: 0.390202, b: 0, a: 1}
